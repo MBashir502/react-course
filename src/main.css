@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.books{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.myBooks{
+    width: 250px;
+}
+.myBooks img{
+    width: 100%;
+}
+
+.books .firstCall{
+    background-color: red;
+}
